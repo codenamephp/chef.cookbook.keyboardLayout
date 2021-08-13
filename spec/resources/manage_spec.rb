@@ -27,7 +27,7 @@ describe 'codenamephp_keyboard_layout_manage' do
           layout: 'de',
           variant: '',
           options: '',
-          backspace: 'guess'
+          backspace: 'guess',
         }
       )
     end
@@ -64,7 +64,7 @@ describe 'codenamephp_keyboard_layout_manage' do
           layout: 'some layout',
           variant: 'some variant',
           options: 'some options',
-          backspace: 'some backspace'
+          backspace: 'some backspace',
         }
       )
     end
@@ -94,7 +94,7 @@ describe 'codenamephp_keyboard_layout_manage' do
           some_variable: 'some value',
           backspace: 'guess',
           options: '',
-          variant: ''
+          variant: '',
         }
       )
     end

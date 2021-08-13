@@ -22,7 +22,7 @@ action :update do
         layout: new_resource.layout,
         variant: new_resource.variant,
         options: new_resource.options,
-        backspace: new_resource.backspace
+        backspace: new_resource.backspace,
       }.merge(new_resource.extra_variables)
     )
   end
