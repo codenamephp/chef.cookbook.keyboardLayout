@@ -5,7 +5,7 @@ AllCops:
     - 'bundler/**'
 
 Layout/LineLength:
-  Max: 160
+  Max: 180
 
 Metrics/BlockLength:
   Exclude:
