@@ -6,6 +6,7 @@
 
 **Merged pull requests:**
 
+- Replaced workflow with reusbale one [\#19](https://github.com/codenamephp/chef.cookbook.keyboardLayout/pull/19) ([bastianschwarz](https://github.com/bastianschwarz))
 - Added containerconfig [\#18](https://github.com/codenamephp/chef.cookbook.keyboardLayout/pull/18) ([bastianschwarz](https://github.com/bastianschwarz))
 - Bump bobheadxi/deployments from 0.6.1 to 0.6.2 [\#6](https://github.com/codenamephp/chef.cookbook.keyboardLayout/pull/6) ([dependabot[bot]](https://github.com/apps/dependabot))
 - Bump bobheadxi/deployments from 0.6.0 to 0.6.1 [\#5](https://github.com/codenamephp/chef.cookbook.keyboardLayout/pull/5) ([dependabot[bot]](https://github.com/apps/dependabot))
