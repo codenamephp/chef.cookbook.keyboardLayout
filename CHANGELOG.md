@@ -1,11 +1,12 @@
 # Changelog
 
-## [1.0.1](https://github.com/codenamephp/chef.cookbook.keyboardLayout/tree/1.0.1) (2021-12-29)
+## [1.0.1](https://github.com/codenamephp/chef.cookbook.keyboardLayout/tree/1.0.1) (2022-11-13)
 
 [Full Changelog](https://github.com/codenamephp/chef.cookbook.keyboardLayout/compare/1.0.0...1.0.1)
 
 **Merged pull requests:**
 
+- Added containerconfig [\#18](https://github.com/codenamephp/chef.cookbook.keyboardLayout/pull/18) ([bastianschwarz](https://github.com/bastianschwarz))
 - Bump bobheadxi/deployments from 0.6.1 to 0.6.2 [\#6](https://github.com/codenamephp/chef.cookbook.keyboardLayout/pull/6) ([dependabot[bot]](https://github.com/apps/dependabot))
 - Bump bobheadxi/deployments from 0.6.0 to 0.6.1 [\#5](https://github.com/codenamephp/chef.cookbook.keyboardLayout/pull/5) ([dependabot[bot]](https://github.com/apps/dependabot))
 - Bump tubone24/update\_release from 1.2.0 to 1.3.1 [\#4](https://github.com/codenamephp/chef.cookbook.keyboardLayout/pull/4) ([dependabot[bot]](https://github.com/apps/dependabot))
