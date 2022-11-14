@@ -15,9 +15,6 @@
 			]
 		}
 	},
-	"features": {
-		"ghcr.io/dhoeric/features/act:1": {}
-	},
 	"containerEnv": {
     "KITCHEN_LOCAL_YAML": "kitchen.dokken.yml",
 		"CHEF_LICENSE": "accept"
