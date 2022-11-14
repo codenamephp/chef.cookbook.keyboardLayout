@@ -11,7 +11,9 @@
 		"vscode": {
 			// Add the IDs of extensions you want installed when the container is created.
 			"extensions": [
-				"chef-software.chef"
+				"chef-software.chef",
+				"eamodio.gitlens",
+				"github.copilot"
 			]
 		}
 	},
