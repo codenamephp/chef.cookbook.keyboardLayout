@@ -6,6 +6,7 @@
 
 **Merged pull requests:**
 
+- Add Copilot and Gitlens [\#21](https://github.com/codenamephp/chef.cookbook.keyboardLayout/pull/21) ([bastianschwarz](https://github.com/bastianschwarz))
 - Debian 11 [\#20](https://github.com/codenamephp/chef.cookbook.keyboardLayout/pull/20) ([bastianschwarz](https://github.com/bastianschwarz))
 - Replaced workflow with reusbale one [\#19](https://github.com/codenamephp/chef.cookbook.keyboardLayout/pull/19) ([bastianschwarz](https://github.com/bastianschwarz))
 - Added containerconfig [\#18](https://github.com/codenamephp/chef.cookbook.keyboardLayout/pull/18) ([bastianschwarz](https://github.com/bastianschwarz))
