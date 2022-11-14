@@ -1,11 +1,12 @@
 # Changelog
 
-## [1.0.1](https://github.com/codenamephp/chef.cookbook.keyboardLayout/tree/1.0.1) (2022-11-13)
+## [1.0.1](https://github.com/codenamephp/chef.cookbook.keyboardLayout/tree/1.0.1) (2022-11-14)
 
 [Full Changelog](https://github.com/codenamephp/chef.cookbook.keyboardLayout/compare/1.0.0...1.0.1)
 
 **Merged pull requests:**
 
+- Debian 11 [\#20](https://github.com/codenamephp/chef.cookbook.keyboardLayout/pull/20) ([bastianschwarz](https://github.com/bastianschwarz))
 - Replaced workflow with reusbale one [\#19](https://github.com/codenamephp/chef.cookbook.keyboardLayout/pull/19) ([bastianschwarz](https://github.com/bastianschwarz))
 - Added containerconfig [\#18](https://github.com/codenamephp/chef.cookbook.keyboardLayout/pull/18) ([bastianschwarz](https://github.com/bastianschwarz))
 - Bump bobheadxi/deployments from 0.6.1 to 0.6.2 [\#6](https://github.com/codenamephp/chef.cookbook.keyboardLayout/pull/6) ([dependabot[bot]](https://github.com/apps/dependabot))
